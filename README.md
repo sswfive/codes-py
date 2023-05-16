@@ -1,2 +1,2 @@
-# python-codehub
-learn python code and note
+# codes-py 
+learn python code
